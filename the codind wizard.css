@@ -1,0 +1,17 @@
+.outer-countainer .container .letter-spacing {
+	display: flex;
+	justify-content: center;
+	margin-left: 1rem;
+	position: absolute;
+	color: #af5792;
+	font-size: 1.5rem;
+	letter-spacing: 1rem;
+	text-align: center;
+}
+.outer-countainer .container .bowl {
+	width: 15.75rem;
+	height: 6.25rem;
+	background: #dec8c8;
+	border-radius: 0.4rem 0.34rem 7rem 7rem;
+	border-bottom: 0.4rem solid #b39c9c;
+	position: relative;
